@@ -14,8 +14,7 @@ We believe that technology can be a tool for raising awareness about the beauty 
 As part of our mission, we also develop and promote the **EcoGallery** Android app. This app provides users with an immersive experience of viewing and sharing nature photography. You can find more details about its **Privacy Policy** [here](Privacy_Policy.md).
 
 Pictures provided in the app are downloaded via the official API of pixabay.
-We do not store or claim ownership of these images. See Pixabay’s Terms:
-[Terms](https://pixabay.com/service/terms/)
+We do not store or claim ownership of these images. See Pixabay’s [Terms](https://pixabay.com/service/terms/)
 
 ## Join Us
 We welcome contributions and collaborations from nature enthusiasts and developers alike. Let's work together to bring more awareness and appreciation to our environment!
